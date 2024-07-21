@@ -1,0 +1,10 @@
+github.com/gofiber/contrib v0.0.2 h1:AKZygVrL1iy/qwMDZOMPiZ7FM4ksrEV4dEn3gN02gkI=
+github.com/gofiber/contrib v0.0.2/go.mod h1:xHM0KjZTrxfncsC0pAbG2l3kV1pBvwsGrXYoXtneRFg=
+github.com/gofiber/fiber/v2 v2.20.0 h1:K/ek2+atbhcwhQFlflX8AUbMi5nfhGfkhA7VNgm2VsM=
+github.com/gofiber/fiber/v2 v2.20.0/go.mod h1:jXrVGuONAYKXlbCQd8A3wr7N1hKgG9xMOG4aGlvPrqI=
+github.com/klauspost/compress v1.13.6 h1:XRwdo0glQaD4ifPo0GZekUSt9i9Juq54EulJx0nnR+s=
+github.com/klauspost/compress v1.13.6/go.mod h1:BLd2LBMCXXH5odVV6EjAjQevYOXKH9mqrp1sc2U6t6A=
+github.com/mattn/go-isatty v0.0.14 h1:LJFw4uq9Bq8PT6I5Ib8pqK6J8flN9FkIYTDVtGylVxk=
+github.com/mattn/go-isatty v0.0.14/go.mod h1:zXEIbDgx/K/MvxdZGWZ9mYLJ80xHTfU4Rs5lA9ud/Mc=
+github.com/sirupsen/logrus v1.8.1 h1:QCOoHybCmgZ8ZQ5vI0qQ8sfXTbPLMYqBT2p4Woim8hc=
+github.com/sirupsen/logrus v1.8.1/go.mod h1:hdLVf1HlCXRogP3z3S7EBGT5hx3Gp9wnXy4OKl2zvPc=
